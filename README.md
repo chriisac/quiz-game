@@ -2,15 +2,29 @@
 
 This is a simple quiz game built using Python and the Tkinter library. The game displays a series of questions. The user must select the correct answer to proceed to the next question. At the end of the quiz, the user is shown their score on console.
 
-## Requirements
+# Installation
+To install and run the game, follow these steps:
 
-You can install the required libraries by running the following command:
+1. Clone the repository to your local machine by running the following command:
+
+```
+git clone https://github.com/chriisac/quiz-game.git
+```
+
+2. Navigate to the directory where the repository is cloned.
+
+```
+cd quiz-game
+```
+
+3. Install the required Python libraries using the following command:
+
 ```
 pip install -r requirements.txt
 ```
 
-## How to Run
-To run the game, navigate to the directory where the repository is cloned and run the following command:
+4. Start the game by running the following command:
+
 ```
 python main.py
 ```
